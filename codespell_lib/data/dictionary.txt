@@ -17120,7 +17120,7 @@ registerd->registered, registers,
 registerered->registered
 registeres->registers
 registeresd->registered
-registert->registered
+registert->registered, register,
 registes->registers
 registing->registering
 registors->registers
@@ -21713,7 +21713,7 @@ unregisted->unregistered
 unregisteing->registering
 unregisterd->unregistered
 unregisteres->unregisters
-unregistert->unregistered
+unregistert->unregistered, unregister,
 unregistes->unregisters
 unregisting->unregistering
 unregistred->unregistered
