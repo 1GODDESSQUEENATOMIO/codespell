@@ -15245,6 +15245,8 @@ mnay->many
 mobify->modify
 mocule->module
 mocules->modules
+moddel->model
+moddels->models
 modell->model
 moderm->modem
 modernination->modernization
@@ -22061,6 +22063,7 @@ spezific->specific
 spezified->specified
 spezify->specify
 spicific->specific
+spile->spite, spiral,
 spiltting->splitting
 spinlcok->spinlock
 spinock->spinlock
@@ -25588,6 +25591,7 @@ wikpedia->wikipedia
 wil->will, well,
 wilcard->wildcard
 wilcards->wildcards
+wile->while
 wilh->will
 wille->will
 willingless->willingness
